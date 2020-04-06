@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/theliveryprojetoestagio/static/css/main.519b77d9.chunk.css",
+    "main.js": "/theliveryprojetoestagio/static/js/main.505e1783.chunk.js",
+    "main.js.map": "/theliveryprojetoestagio/static/js/main.505e1783.chunk.js.map",
+    "runtime-main.js": "/theliveryprojetoestagio/static/js/runtime-main.e1978829.js",
+    "runtime-main.js.map": "/theliveryprojetoestagio/static/js/runtime-main.e1978829.js.map",
+    "static/js/2.dbf6e6a3.chunk.js": "/theliveryprojetoestagio/static/js/2.dbf6e6a3.chunk.js",
+    "static/js/2.dbf6e6a3.chunk.js.map": "/theliveryprojetoestagio/static/js/2.dbf6e6a3.chunk.js.map",
+    "index.html": "/theliveryprojetoestagio/index.html",
+    "precache-manifest.a73273272ae507254e73e0ba81dc6a5c.js": "/theliveryprojetoestagio/precache-manifest.a73273272ae507254e73e0ba81dc6a5c.js",
+    "service-worker.js": "/theliveryprojetoestagio/service-worker.js",
+    "static/css/main.519b77d9.chunk.css.map": "/theliveryprojetoestagio/static/css/main.519b77d9.chunk.css.map",
+    "static/js/2.dbf6e6a3.chunk.js.LICENSE.txt": "/theliveryprojetoestagio/static/js/2.dbf6e6a3.chunk.js.LICENSE.txt",
+    "static/media/Hamburguer-min.jpg": "/theliveryprojetoestagio/static/media/Hamburguer-min.e316a4ff.jpg",
+    "static/media/PromocaoCashback.css": "/theliveryprojetoestagio/static/media/Pizza-ilustracao-min.fcc19a15.jpg",
+    "static/media/Pizza-min.jpg": "/theliveryprojetoestagio/static/media/Pizza-min.e53009f1.jpg",
+    "static/media/Sushi-min.jpg": "/theliveryprojetoestagio/static/media/Sushi-min.bfa8837e.jpg",
+    "static/media/download-on-the-app-store-apple.svg": "/theliveryprojetoestagio/static/media/download-on-the-app-store-apple.e374ae72.svg",
+    "static/media/google-play-badge.svg": "/theliveryprojetoestagio/static/media/google-play-badge.c68e1c2f.svg",
+    "static/media/ilustracao.svg": "/theliveryprojetoestagio/static/media/ilustracao.ab2554a6.svg",
+    "static/media/ilustracao_2.svg": "/theliveryprojetoestagio/static/media/ilustracao_2.48d40f52.svg",
+    "static/media/ilustracao_3.svg": "/theliveryprojetoestagio/static/media/ilustracao_3.786e77d1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1978829.js",
+    "static/js/2.dbf6e6a3.chunk.js",
+    "static/css/main.519b77d9.chunk.css",
+    "static/js/main.505e1783.chunk.js"
+  ]
+}
