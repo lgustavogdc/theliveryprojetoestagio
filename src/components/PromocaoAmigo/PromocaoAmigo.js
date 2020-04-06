@@ -10,7 +10,7 @@ export default () => (
             <div className="amigos-subtitle">
                 <h3>Ganhe um desconto indicando o <span>TheLivery</span> para um amigo!</h3>
             </div>
-            <div className="amigos-imagem">
+            <div className="amigos-imagem" data-aos="fade-up">
                 <img src={Ilustration2} alt="Ilustracao de dois amigos" className="amigos-ilustration" />
             </div>
             <div className="amigos-text">

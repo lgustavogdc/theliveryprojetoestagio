@@ -1,5 +1,6 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './App.css';
+import AOS from 'aos';
 
 import Header from './components/Header/Header';
 import Main from './components/Main/Main';
@@ -8,10 +9,10 @@ import PromocaoCupom from './components/PromocaoCupom/PromocaoCupom';
 import PromocaoCashback from './components/PromocaoCashback/PromocaoCashback';
 import Footer from './components/Footer/Footer';
 
-
-
 function App() {
-
+  AOS.init({
+    duration: 2500
+  });
   return (
     <div style={{ height: '100%' }}>
       <Header />
@@ -22,6 +23,6 @@ function App() {
       <Footer />
     </div>
   );
-}
 
+};
 export default App;

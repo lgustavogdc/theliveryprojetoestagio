@@ -15,7 +15,7 @@ const Navbar = props => {
                 <div className="navbar-div">
                     <ul className="navbar-links">
                         <li><a href="/">Home</a></li>
-                        <li><a href="/">Reportar</a></li>
+                        <li><a href="/">Cidades</a></li>
                         <li><a href="/">Ajuda</a></li>
                         <li><a href="/">Contato</a></li>
                     </ul>

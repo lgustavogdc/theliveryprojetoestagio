@@ -1,13 +1,13 @@
 .menu{
     height:100%;
-    background:#fff;
+    background:#910326;
     box-shadow: 2px 0px 5px rgba(0, 0, 0, 0.5);
     position: fixed;
     top:0;
     right:0;
     width:70%;
     max-width: 400px;
-    z-index:200;
+    z-index:200; 
 }
 
 .menu ul{
@@ -15,24 +15,34 @@
     list-style:none;
     display:flex;
     flex-direction: column;
-    justify-content: center;
 }
 
 .menu li{
     margin:0.5rem 0;
+    width:100%;
+    background-color: #aa042c;
+    text-align: center;
 }
 
 .menu a{
-    color:#aa042c;
+    color:#fff;
     text-decoration: none;
-    font-size:1.2rem;
+    font-size:1.5rem;
 }
-.toggle-button{
+.toggle-button,
+.close-button{
     background:transparent;
     border:none;
     cursor: pointer;
+}
+.toggle-button:focus,
+.close-button:focus{
+    outline:none;
+}
+.toggle-button{
     font-size: 25px;
 }
-.toggle-button:focus{
-    outline:none;
+.close-button{
+    font-size: 30px;
+    padding: 10px 0 0 10px;
 }

@@ -4,7 +4,7 @@ footer{
     font-size: 80%;
     display:flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-evenly; 
   }
   .footer-nav{
     list-style: none;
@@ -32,8 +32,7 @@ footer{
   .social-links li a:visited{
     text-decoration: none;
     border:0;
-    color:#888;
-    -webkit-transition: color 0.2s;
+    color:#888;;
     transition: color 0.2s;
   }
   .footer-nav li a:hover,
@@ -53,7 +52,6 @@ footer{
   .facebook,
   .twitter,
   .instagram{
-    -webkit-transition: color 0.2s;
     transition: color 0.2s;
   }
   .facebook:hover{
@@ -66,4 +64,44 @@ footer{
     color:#517fa4;
   }
   
-  
+  @media only screen and (max-width: 1100px){
+    footer{
+      flex-direction: column;
+      justify-content: center;
+    }
+    .nav,
+    .footer-text,
+    .social{
+      margin-bottom: 5px;
+    }
+    .footer-nav{
+      display: flex;
+      justify-content: space-around;
+      width: 100%;
+    }
+    .footer-text{
+      text-align: center;
+    }
+    .social{
+      display:flex;
+      align-self: center;
+      width:50%;
+    }
+    .social-links{
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .social-links li{
+      margin:0;
+    }
+    .facebook{
+      margin:0;
+    }
+  }
+  @media only screen and (max-width: 768px){
+    .footer-nav{
+      justify-content: space-between;
+  }
+}
