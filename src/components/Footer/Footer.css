@@ -68,6 +68,7 @@ footer{
     footer{
       flex-direction: column;
       justify-content: center;
+      width:100%;
     }
     .nav,
     .footer-text,
@@ -101,7 +102,13 @@ footer{
     }
   }
   @media only screen and (max-width: 768px){
+    footer{
+      width:100%;
+      font-size: 10px;
+      padding:10px 0 0 0;
+    }
     .footer-nav{
-      justify-content: space-between;
+      justify-content: space-around;
+      flex-wrap: wrap;
   }
 }

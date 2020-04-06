@@ -58,6 +58,67 @@
   margin-right:100px;
 }
   .main-img{height:60vh;}
+/*-------------------------------------------------pagina modal---------------------------------------------*/
+  .modal-box{
+    height:90%;
+    width:600px;
+    background-color: #fff;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .close-button{  
+    align-self: flex-end;
+    font-size: 35px;
+    margin-right: 10px;
+  }
+  .phone-icon-div{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    align-self: center;
+    font-size: 30px;
+    color: #aa042c;
+    border: 2px solid #aa042c;
+    height:60px;
+    line-height: 60px;
+    width: 60px;
+    border-radius: 30px;
+  }
+  .modal-text{
+    text-align: center;
+    margin: 10px 0;
+  }
+  .modal-text h2{
+    font-size: 30px;
+    margin: 10px 0;
+  }
+  .modal-text p{
+    font-size: 20px;
+  }
+  .modal-download{
+    height:100px;
+    width:200px;
+    transition: transform .2s;
+  }
+  .modal-download:hover{
+    transform:scale(1.1);
+  }
+  .modal-download:first-child{
+    margin-right: 20px;
+  }
+  .imagem-modal-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+  }
+  .modal-ilustration{
+    height: 500px;
+    width: 500px;
+  }
 /*-----------------------------------------botões-------------------------------------------------------------*/
 .btn-vazio,
 .btn-cheio{
@@ -69,6 +130,9 @@
     text-decoration: none;
     font-size: 20px;
     font-weight: 300;
+    background:transparent;
+    border:none;
+    cursor: pointer;
 }
 
 .btn-vazio{
@@ -82,22 +146,14 @@
   color:#fff;
 }
 
-.btn-vazio:link,
-.btn-vazio:visited,
-.btn-cheio:link,
-.btn-cheio:visited,
-input[type="submit"]{
-  transition: all 0.7s ease;
-}
-
 .btn-vazio:hover,
 .btn-vazio:active,  
 .btn-cheio:hover,
-.btn-cheio:active,
-input[type="submit"]:hover,
-input[type="submit"]:active{
+.btn-cheio:active{
   background-color:#910326;
   box-shadow: 1px 7px 10px rgb(0, 0, 0);
+  outline:none;
+  transition: all 0.7s ease;
 }
 
 .btn-vazio:hover,
@@ -127,6 +183,38 @@ input[type="submit"]:active{
   }
 }
 
+@media only screen and (max-width: 1180px) {
+  .modal-box{
+    height:70%;
+    width:400px;
+  }
+  .close-button{  
+    align-self: flex-end;
+    font-size: 35px;
+    margin-right: 10px;
+  }
+  .phone-icon-div{
+    font-size: 20px;
+    height:40px;
+    line-height: 40px;
+    width: 40px;
+    border-radius: 20px;
+  }
+  .modal-text h2{
+    font-size: 20px;
+  }
+  .modal-text p{
+    font-size: 15px;
+  }
+  .modal-download{
+    height:100px;
+    width:150px;
+  }
+  .imagem-modal-container{
+    height: 300px;
+    width: 300px;
+  }
+}
 @media only screen and (max-width: 768px){
   .guide-main{
       flex-direction: column;
@@ -155,7 +243,61 @@ input[type="submit"]:active{
   .mobile-icone{
       display:block;
   }
+  .modal-box{
+    height:100%;
+    width:100%;
+  }
+  .close-button{  
+    align-self: flex-end;
+    font-size: 40px;
+    margin-right: 20px;
+  }
+  .phone-icon-div{
+    font-size: 40px;
+    height:80px;
+    line-height: 80px;
+    width: 80px;
+    border-radius: 40px;
+  }
+  .modal-text h2{
+    font-size: 30px;
+  }
+  .modal-text p{
+    font-size: 20px;
+  }
+  .modal-download{
+    width:150px;
+    height:50px;
+  }
+  .imagem-modal-container{
+    height: 400px;
+    width: 400px;
+  }
 }
+  @media only screen and (max-width: 540px){
+    .modal-download{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height:50px;
+    }
+    .imagem-modal-container{
+      height: 300px;
+      width: 300px;
+    }
+  }
+
+  @media only screen and (max-width: 480px){
+    .modal-download{
+      width:150px;
+      height:50px;
+    }
+    .imagem-modal-container{
+      width: 200px;
+    }
+  }
+
 @media only screen and (max-width: 390px){
   .main-text h1{
     font-size: 20px;
@@ -166,5 +308,15 @@ input[type="submit"]:active{
   }
   .main-text p{
     font-size: 15px;
+  }
+  .modal-text h2{
+    font-size: 20px;
+  }
+  .modal-text p{
+    font-size: 15px;
+  }
+  .modal-download{
+    width:150px;
+    height:50px;
   }
 }

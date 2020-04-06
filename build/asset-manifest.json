@@ -1,28 +1,31 @@
 {
   "files": {
-    "main.css": "/theliveryprojetoestagio/static/css/main.9a1222bb.chunk.css",
-    "main.js": "/theliveryprojetoestagio/static/js/main.5fce49dc.chunk.js",
-    "main.js.map": "/theliveryprojetoestagio/static/js/main.5fce49dc.chunk.js.map",
-    "runtime-main.js": "/theliveryprojetoestagio/static/js/runtime-main.e1978829.js",
-    "runtime-main.js.map": "/theliveryprojetoestagio/static/js/runtime-main.e1978829.js.map",
-    "static/js/2.ef712475.chunk.js": "/theliveryprojetoestagio/static/js/2.ef712475.chunk.js",
-    "static/js/2.ef712475.chunk.js.map": "/theliveryprojetoestagio/static/js/2.ef712475.chunk.js.map",
-    "index.html": "/theliveryprojetoestagio/index.html",
-    "precache-manifest.cee28c5f3d12f99aa141ac76f97cb3ab.js": "/theliveryprojetoestagio/precache-manifest.cee28c5f3d12f99aa141ac76f97cb3ab.js",
-    "service-worker.js": "/theliveryprojetoestagio/service-worker.js",
-    "static/css/main.9a1222bb.chunk.css.map": "/theliveryprojetoestagio/static/css/main.9a1222bb.chunk.css.map",
-    "static/js/2.ef712475.chunk.js.LICENSE.txt": "/theliveryprojetoestagio/static/js/2.ef712475.chunk.js.LICENSE.txt",
-    "static/media/PromocaoCashback.css": "/theliveryprojetoestagio/static/media/40077.da3e3bfb.jpg",
-    "static/media/5883.jpg": "/theliveryprojetoestagio/static/media/5883.8761a1ab.jpg",
-    "static/media/760.jpg": "/theliveryprojetoestagio/static/media/760.8eb514cd.jpg",
-    "static/media/OANUZZ0.jpg": "/theliveryprojetoestagio/static/media/OANUZZ0.bc1d6a8d.jpg",
-    "static/media/ilustracao.svg": "/theliveryprojetoestagio/static/media/ilustracao.ab2554a6.svg",
-    "static/media/ilustracao_2.svg": "/theliveryprojetoestagio/static/media/ilustracao_2.48d40f52.svg"
+    "main.css": "/build/static/css/main.0bf7c5ed.chunk.css",
+    "main.js": "/build/static/js/main.32631ffa.chunk.js",
+    "main.js.map": "/build/static/js/main.32631ffa.chunk.js.map",
+    "runtime-main.js": "/build/static/js/runtime-main.896bfc3f.js",
+    "runtime-main.js.map": "/build/static/js/runtime-main.896bfc3f.js.map",
+    "static/js/2.dbf6e6a3.chunk.js": "/build/static/js/2.dbf6e6a3.chunk.js",
+    "static/js/2.dbf6e6a3.chunk.js.map": "/build/static/js/2.dbf6e6a3.chunk.js.map",
+    "index.html": "/build/index.html",
+    "precache-manifest.e10d5c1c62ac56f5d0f720c3a43a99dd.js": "/build/precache-manifest.e10d5c1c62ac56f5d0f720c3a43a99dd.js",
+    "service-worker.js": "/build/service-worker.js",
+    "static/css/main.0bf7c5ed.chunk.css.map": "/build/static/css/main.0bf7c5ed.chunk.css.map",
+    "static/js/2.dbf6e6a3.chunk.js.LICENSE.txt": "/build/static/js/2.dbf6e6a3.chunk.js.LICENSE.txt",
+    "static/media/Hamburguer-min.jpg": "/build/static/media/Hamburguer-min.e316a4ff.jpg",
+    "static/media/PromocaoCashback.css": "/build/static/media/Pizza-ilustracao-min.fcc19a15.jpg",
+    "static/media/Pizza-min.jpg": "/build/static/media/Pizza-min.e53009f1.jpg",
+    "static/media/Sushi-min.jpg": "/build/static/media/Sushi-min.bfa8837e.jpg",
+    "static/media/download-on-the-app-store-apple.svg": "/build/static/media/download-on-the-app-store-apple.e374ae72.svg",
+    "static/media/google-play-badge.svg": "/build/static/media/google-play-badge.c68e1c2f.svg",
+    "static/media/ilustracao.svg": "/build/static/media/ilustracao.ab2554a6.svg",
+    "static/media/ilustracao_2.svg": "/build/static/media/ilustracao_2.48d40f52.svg",
+    "static/media/ilustracao_3.svg": "/build/static/media/ilustracao_3.786e77d1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1978829.js",
-    "static/js/2.ef712475.chunk.js",
-    "static/css/main.9a1222bb.chunk.css",
-    "static/js/main.5fce49dc.chunk.js"
+    "static/js/runtime-main.896bfc3f.js",
+    "static/js/2.dbf6e6a3.chunk.js",
+    "static/css/main.0bf7c5ed.chunk.css",
+    "static/js/main.32631ffa.chunk.js"
   ]
 }

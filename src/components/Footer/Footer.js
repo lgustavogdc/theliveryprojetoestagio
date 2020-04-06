@@ -9,7 +9,7 @@ import { faTwitter } from "@fortawesome/free-brands-svg-icons";
 
 export default () => (
   <footer>
-    <div class="nav">
+    <div className="nav">
       <ul className="footer-nav">
         <li><a href="/">Sobre nós</a></li>
         <li><a href="/">Blog</a></li>
@@ -18,7 +18,7 @@ export default () => (
       </ul>
     </div>
     <div className="footer-text">
-      <p>TheLivery 2018 © A melhor forma de pedir comida online. Desenvolvido por Magalhães Web.</p>
+      <p>TheLivery 2018 © A melhor forma de pedir comida online. Desenvolvido por Luís Gustavo.</p>
     </div>
     <div className="social">
       <ul className="social-links">

@@ -5,7 +5,7 @@ import Ilustration2 from './../../assets/ilustracao_2.svg';
 
 export default () => (
     <section id="amigo" className="amigo-section">
-        <h2>Indique para um <span>amigo</span> e ganhe um prêmio!</h2>
+        <h2>Indique para um <span>amigo</span> e ganhe um Bônus!</h2>
         <div className="amigo-column">
             <div className="amigos-subtitle">
                 <h3>Ganhe um desconto indicando o <span>TheLivery</span> para um amigo!</h3>
