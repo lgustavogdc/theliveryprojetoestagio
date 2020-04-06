@@ -2,7 +2,7 @@
   "name": "theliveryestagioprojeto",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lgustavogdc.github.io/theliveryprojetoestagio/",
+  "homepage": ".",
   "dependencies": {
     "@fortawesome/fontawesome": "^1.1.8",
     "@fortawesome/fontawesome-free": "^5.13.0",
