@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/theliveryprojetoestagio/static/css/main.9a1222bb.chunk.css",
+    "main.js": "/theliveryprojetoestagio/static/js/main.5fce49dc.chunk.js",
+    "main.js.map": "/theliveryprojetoestagio/static/js/main.5fce49dc.chunk.js.map",
+    "runtime-main.js": "/theliveryprojetoestagio/static/js/runtime-main.e1978829.js",
+    "runtime-main.js.map": "/theliveryprojetoestagio/static/js/runtime-main.e1978829.js.map",
+    "static/js/2.ef712475.chunk.js": "/theliveryprojetoestagio/static/js/2.ef712475.chunk.js",
+    "static/js/2.ef712475.chunk.js.map": "/theliveryprojetoestagio/static/js/2.ef712475.chunk.js.map",
+    "index.html": "/theliveryprojetoestagio/index.html",
+    "precache-manifest.cee28c5f3d12f99aa141ac76f97cb3ab.js": "/theliveryprojetoestagio/precache-manifest.cee28c5f3d12f99aa141ac76f97cb3ab.js",
+    "service-worker.js": "/theliveryprojetoestagio/service-worker.js",
+    "static/css/main.9a1222bb.chunk.css.map": "/theliveryprojetoestagio/static/css/main.9a1222bb.chunk.css.map",
+    "static/js/2.ef712475.chunk.js.LICENSE.txt": "/theliveryprojetoestagio/static/js/2.ef712475.chunk.js.LICENSE.txt",
+    "static/media/PromocaoCashback.css": "/theliveryprojetoestagio/static/media/40077.da3e3bfb.jpg",
+    "static/media/5883.jpg": "/theliveryprojetoestagio/static/media/5883.8761a1ab.jpg",
+    "static/media/760.jpg": "/theliveryprojetoestagio/static/media/760.8eb514cd.jpg",
+    "static/media/OANUZZ0.jpg": "/theliveryprojetoestagio/static/media/OANUZZ0.bc1d6a8d.jpg",
+    "static/media/ilustracao.svg": "/theliveryprojetoestagio/static/media/ilustracao.ab2554a6.svg",
+    "static/media/ilustracao_2.svg": "/theliveryprojetoestagio/static/media/ilustracao_2.48d40f52.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1978829.js",
+    "static/js/2.ef712475.chunk.js",
+    "static/css/main.9a1222bb.chunk.css",
+    "static/js/main.5fce49dc.chunk.js"
+  ]
+}
