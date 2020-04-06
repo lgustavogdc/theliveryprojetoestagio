@@ -1,0 +1,38 @@
+.menu{
+    height:100%;
+    background:#fff;
+    box-shadow: 2px 0px 5px rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top:0;
+    right:0;
+    width:70%;
+    max-width: 400px;
+    z-index:200;
+}
+
+.menu ul{
+    height:100%;
+    list-style:none;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.menu li{
+    margin:0.5rem 0;
+}
+
+.menu a{
+    color:#aa042c;
+    text-decoration: none;
+    font-size:1.2rem;
+}
+.toggle-button{
+    background:transparent;
+    border:none;
+    cursor: pointer;
+    font-size: 25px;
+}
+.toggle-button:focus{
+    outline:none;
+}

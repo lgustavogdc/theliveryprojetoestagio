@@ -1,0 +1,125 @@
+/*----------------------------------------------------------cupom Section--------------------------------------------------- */
+.cupom-section{
+    width:100%;
+    height: 85%;
+  }
+  
+  .cupom-row{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .cupom{
+    border: 5px dotted #da0637;
+    width: 25%;
+    border-radius: 15px;
+    margin: 0 auto;
+    max-width: 500px;
+    background-color: #f1f1f1;
+  }
+  
+  .cupom-container,
+  .cupom-logo,
+  .cupom-text{
+    padding: 2px 16px;
+  }
+  .cupom-codigo,
+  .cupom-paragraph{
+    text-align: justify;
+  }
+  
+  .promocao{
+    background: #ccc;
+    padding: 3px;
+  }
+  
+  .expira{
+    columns: #ff0000;
+  }
+  
+  .cupom-imagem{
+    width:100%;
+  }
+
+  @media only screen and (max-width: 768px){
+    .cupom-section{
+      height:500px;
+      width:100%;
+      margin:0;
+    }
+    .cupom-section h2{
+      font-size: 25px;
+    }
+  .cupom-row{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .cupom{
+    display: flex;
+    max-height: 100px;
+    width:90%;
+    margin-bottom: 15px;
+  }
+  .cupom-imagem{
+    height:100px;
+    width:100px;
+  }
+  .cupom-paragraph{
+    display:none;
+  }
+  .cupom-codigo{
+    display: flex;
+    flex-direction:column;
+    justify-content: space-evenly;
+    margin: 3px;
+  }
+  .cupom-codigo p:first-child{
+    margin-bottom: 2px;
+  }
+  .cupom-text h3{ 
+    font-size: 10px;
+    margin-left: 2px;
+  }
+  .cupom-text p,
+  .cupom-codigo{
+    font-size: 12px;
+  }
+  .cupom-container .logo_thelivery{
+    height: 50%;
+    width:100%;
+    margin:0;  
+  }
+}
+@media only screen and (max-width: 460px){
+  .cupom-section h2{
+    font-size: 20px;
+  }
+  .cupom-container{
+    display: flex;
+  }
+  .cupom-container,
+  .cupom-logo,
+  .cupom-text,
+  .cupom-codigo{
+    padding:0;
+  }
+  .cupom-text{
+    height:30px;
+    width:100%;
+  }
+  .cupom-text h3{
+    font-size:12px;
+  }
+  .cupom-logo .logo_thelivery{
+    max-width: 100px;
+    max-height:100px;
+    min-height:50px;
+    min-width:50px;
+  }
+  .cupom-imagem{
+    height:100px;
+    width:100px;
+  }
+}

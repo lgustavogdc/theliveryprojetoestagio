@@ -1,0 +1,39 @@
+*{
+  margin:0;
+  padding:0;
+} 
+html{
+  scroll-behavior: smooth;
+}
+body{
+  font-family: 'Noto Sans','Sans-serif','Arial';
+}
+section{
+padding: 25px 0;
+}
+section h2{
+font-size: 180%;
+word-spacing: 2px;
+text-align: center;
+margin-bottom: 30px;
+letter-spacing: 1px;
+text-transform: uppercase;
+}
+section h2:after{
+display: block;
+height: 2px;
+background-color:#aa042c;
+content:" ";
+width: 100px;
+margin: 0 auto;
+margin-top: 30px;
+}
+span{
+color:#aa042c;
+}
+.logo_thelivery{
+  height:10vh;
+  width:auto;
+  margin:0;  
+}
+
