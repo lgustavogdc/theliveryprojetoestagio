@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import './App.css';
 import AOS from 'aos';
 
@@ -12,6 +12,9 @@ import Footer from './components/Footer/Footer';
 function App() {
   AOS.init({
     duration: 2200
+  });
+  useEffect(() => {
+    document.title = "TheLivery"
   });
   return (
     <div style={{ height: '100%' }}>

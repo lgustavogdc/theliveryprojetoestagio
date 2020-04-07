@@ -147,6 +147,11 @@
   color:#fff;
 }
 
+.btn-cheio:focus {
+  outline: none;
+  border: none;
+}
+
 .btn-vazio:hover,
 .btn-vazio:active,  
 .btn-cheio:hover,
