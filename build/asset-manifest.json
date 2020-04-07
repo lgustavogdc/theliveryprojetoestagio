@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.a422d42f.chunk.css",
-    "main.js": "./static/js/main.427ef9db.chunk.js",
-    "main.js.map": "./static/js/main.427ef9db.chunk.js.map",
+    "main.css": "./static/css/main.1653dad7.chunk.css",
+    "main.js": "./static/js/main.9131edbf.chunk.js",
+    "main.js.map": "./static/js/main.9131edbf.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7282be0d.js",
     "runtime-main.js.map": "./static/js/runtime-main.7282be0d.js.map",
     "static/js/2.dbf6e6a3.chunk.js": "./static/js/2.dbf6e6a3.chunk.js",
     "static/js/2.dbf6e6a3.chunk.js.map": "./static/js/2.dbf6e6a3.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.6e1c6c51bce6c89a750824279b024d8d.js": "./precache-manifest.6e1c6c51bce6c89a750824279b024d8d.js",
+    "precache-manifest.2410e301dbaaf31a6b05d27665e8ddc9.js": "./precache-manifest.2410e301dbaaf31a6b05d27665e8ddc9.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.a422d42f.chunk.css.map": "./static/css/main.a422d42f.chunk.css.map",
+    "static/css/main.1653dad7.chunk.css.map": "./static/css/main.1653dad7.chunk.css.map",
     "static/js/2.dbf6e6a3.chunk.js.LICENSE.txt": "./static/js/2.dbf6e6a3.chunk.js.LICENSE.txt",
-    "static/media/Hamburguer-min.jpg": "./static/media/Hamburguer-min.e316a4ff.jpg",
-    "static/media/PromocaoCashback.css": "./static/media/Pizza-ilustracao-min.fcc19a15.jpg",
-    "static/media/Pizza-min.jpg": "./static/media/Pizza-min.e53009f1.jpg",
+    "static/media/Hamburguer-min.jpg": "./static/media/Hamburguer-min.4a6772ff.jpg",
+    "static/media/PromocaoCashback.css": "./static/media/Pizza-ilustracao-min.c035e417.jpg",
+    "static/media/Pizza-min.jpg": "./static/media/Pizza-min.1caf868b.jpg",
     "static/media/Sushi-min.jpg": "./static/media/Sushi-min.bfa8837e.jpg",
     "static/media/download-on-the-app-store-apple.svg": "./static/media/download-on-the-app-store-apple.e374ae72.svg",
     "static/media/google-play-badge.svg": "./static/media/google-play-badge.c68e1c2f.svg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.7282be0d.js",
     "static/js/2.dbf6e6a3.chunk.js",
-    "static/css/main.a422d42f.chunk.css",
-    "static/js/main.427ef9db.chunk.js"
+    "static/css/main.1653dad7.chunk.css",
+    "static/js/main.9131edbf.chunk.js"
   ]
 }

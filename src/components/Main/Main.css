@@ -306,16 +306,16 @@
     }
   }
 
-@media only screen and (max-width: 420px){
+@media only screen and (max-width: 444px){
   .main-text h1{
-    font-size: 15px;
+    font-size: 16px;
+    text-align: center;
   }
   .main-text h2{
     font-size: 15px;
-    margin-bottom:10px;
   }
   .main-text p{
-    font-size: 12px;
+    font-size: 14px;
   }
   .btn-vazio,
   .btn-cheio{

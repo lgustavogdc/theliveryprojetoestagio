@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac59e647f79879fcecfb05b9836bc12a",
+    "revision": "1ae183cd94971ce9aaeb765aa7230695",
     "url": "./index.html"
   },
   {
-    "revision": "0d4a257c556f77db9c20",
-    "url": "./static/css/main.a422d42f.chunk.css"
+    "revision": "be3ab75ddd5d28b0ec57",
+    "url": "./static/css/main.1653dad7.chunk.css"
   },
   {
     "revision": "f440cca49469e3d1ac7e",
@@ -16,24 +16,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.dbf6e6a3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d4a257c556f77db9c20",
-    "url": "./static/js/main.427ef9db.chunk.js"
+    "revision": "be3ab75ddd5d28b0ec57",
+    "url": "./static/js/main.9131edbf.chunk.js"
   },
   {
     "revision": "7eaca2b8ffa85e538d2f",
     "url": "./static/js/runtime-main.7282be0d.js"
   },
   {
-    "revision": "e316a4ff66b77d037a372c36acc2e1d3",
-    "url": "./static/media/Hamburguer-min.e316a4ff.jpg"
+    "revision": "4a6772ffbd2ac1cd9a520694549c33bc",
+    "url": "./static/media/Hamburguer-min.4a6772ff.jpg"
   },
   {
-    "revision": "fcc19a1577aba5b239226d74981d398b",
-    "url": "./static/media/Pizza-ilustracao-min.fcc19a15.jpg"
+    "revision": "c035e41786b19e2a9072f1a7e2e53e21",
+    "url": "./static/media/Pizza-ilustracao-min.c035e417.jpg"
   },
   {
-    "revision": "e53009f1aced66c38ec78b2179edda9a",
-    "url": "./static/media/Pizza-min.e53009f1.jpg"
+    "revision": "1caf868b17b92a1af41729f1ecdda8cd",
+    "url": "./static/media/Pizza-min.1caf868b.jpg"
   },
   {
     "revision": "bfa8837ef8040477c96956094a03a573",
