@@ -21,7 +21,7 @@ export default () => (
                     <p className="cupom-paragraph">Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                     Fuga iure asperiores aliquid dolor totam optio! Tempore perferendis
                     eos ullam saepe assumenda distinctio
-                        soluta repellendus dolore illum? At laudantium cum veritatis?</p>
+                        soluta repellendus dolore illum?</p>
                     <div className="cupom-codigo">
                         <p>Use o código da promoção: <span className="promocao">YET129</span></p>
                         <p className="expira">Expira em: 10 de Abril, 2020</p>
@@ -38,7 +38,7 @@ export default () => (
                     <p className="cupom-paragraph">Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                     Fuga iure asperiores aliquid dolor totam optio! Tempore perferendis
                     eos ullam saepe assumenda distinctio
-                        soluta repellendus dolore illum? At laudantium cum veritatis?</p>
+                        soluta repellendus dolore illum?</p>
                     <div className="cupom-codigo">
                         <p>Use o código da promoção: <span className="promocao">ZOR111</span></p>
                         <p className="expira">Expira em: 10 de Abril, 2020</p>
@@ -55,7 +55,7 @@ export default () => (
                     <p className="cupom-paragraph">Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                     Fuga iure asperiores aliquid dolor totam optio! Tempore perferendis
                     eos ullam saepe assumenda distinctio
-                        soluta repellendus dolore illum? At laudantium cum veritatis?</p>
+                        soluta repellendus dolore illum?</p>
                     <div className="cupom-codigo">
                         <p>Use o código da promoção: <span className="promocao">LDS197</span></p>
                         <p className="expira">Expira em: 10 de Abril, 2020</p>

@@ -11,7 +11,7 @@ import Footer from './components/Footer/Footer';
 
 function App() {
   AOS.init({
-    duration: 2500
+    duration: 2200
   });
   return (
     <div style={{ height: '100%' }}>

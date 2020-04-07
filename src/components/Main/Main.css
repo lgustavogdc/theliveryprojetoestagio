@@ -142,6 +142,7 @@
 }
 
 .btn-cheio{
+  border: 2px solid #da0637;
   background-color:#da0637;
   color:#fff;
 }
@@ -154,6 +155,7 @@
   box-shadow: 1px 7px 10px rgb(0, 0, 0);
   outline:none;
   transition: all 0.7s ease;
+  border: 2px solid #910326;
 }
 
 .btn-vazio:hover,
@@ -218,6 +220,7 @@
 @media only screen and (max-width: 768px){
   .guide-main{
       flex-direction: column;
+      height: 450px;
   }
   .main-text{
       width:60vw;
@@ -298,16 +301,20 @@
     }
   }
 
-@media only screen and (max-width: 390px){
+@media only screen and (max-width: 420px){
   .main-text h1{
-    font-size: 20px;
+    font-size: 15px;
   }
   .main-text h2{
-    font-size: 18px;
+    font-size: 15px;
     margin-bottom:10px;
   }
   .main-text p{
-    font-size: 15px;
+    font-size: 12px;
+  }
+  .btn-vazio,
+  .btn-cheio{
+    font-size: 13px;
   }
   .modal-text h2{
     font-size: 20px;

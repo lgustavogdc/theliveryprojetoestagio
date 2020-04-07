@@ -12,7 +12,7 @@ export default () => (
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe expedita facere
                     dolorum vitae a doloribus consequuntur vel maxime.
                     Veritatis id in possimus quod placeat, dicta quasi sunt libero iusto
-                        quibusdam?</p>
+                    quibusdam?</p>
                 </div>
             </div>
             <div className="cashback-text">

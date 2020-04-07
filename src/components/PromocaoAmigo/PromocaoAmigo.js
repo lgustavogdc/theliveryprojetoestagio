@@ -13,7 +13,7 @@ export default () => (
             <div className="amigos-imagem" data-aos="fade-up">
                 <img src={Ilustration2} alt="Ilustracao de dois amigos" className="amigos-ilustration" />
             </div>
-            <div className="amigos-text">
+            <div className="amigos-text" data-aos="fade-up">
                 <p>Lorem ipsum dolor <span>sit amet</span>, consectetur adipisicing elit.
                     Quasi molestias libero culpa<span> dolorem que magnam!</span></p>
             </div>

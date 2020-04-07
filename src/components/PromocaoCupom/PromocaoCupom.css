@@ -23,6 +23,9 @@
   .cupom-text{
     padding: 2px 16px;
   }
+  .cupom-text h3{
+    text-align: center;
+  }
   .cupom-codigo,
   .cupom-paragraph{
     text-align: justify;
@@ -61,6 +64,10 @@
     max-height: 100px;
     width:90%;
     margin-bottom: 15px;
+  }
+  .cupom-logo{
+    display:flex;
+    align-items: center;
   }
   .cupom-imagem{
     height:100px;
