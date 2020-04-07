@@ -18,7 +18,7 @@ export default () => (
       </ul>
     </div>
     <div className="footer-text">
-      <p>TheLivery 2018 © A melhor forma de pedir comida online. Desenvolvido por Luís Gustavo.</p>
+      <p>TheLivery 2020 © A melhor forma de pedir comida online. Desenvolvido por Luís Gustavo.</p>
     </div>
     <div className="social">
       <ul className="social-links">
