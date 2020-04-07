@@ -11,7 +11,7 @@ import Footer from './components/Footer/Footer';
 
 function App() {
   AOS.init({
-    duration: 1500
+    duration: 1000
   });
   useEffect(() => {
     document.title = "TheLivery"
