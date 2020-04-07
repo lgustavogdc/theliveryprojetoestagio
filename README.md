@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse site também esta disponivel para ser acessado em: https://theliveryestagio-projeto.netlify.com/
 
 ## Available Scripts
 
