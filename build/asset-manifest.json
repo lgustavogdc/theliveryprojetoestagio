@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.1653dad7.chunk.css",
-    "main.js": "./static/js/main.63b49a91.chunk.js",
-    "main.js.map": "./static/js/main.63b49a91.chunk.js.map",
+    "main.css": "./static/css/main.40e15944.chunk.css",
+    "main.js": "./static/js/main.279909cb.chunk.js",
+    "main.js.map": "./static/js/main.279909cb.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7282be0d.js",
     "runtime-main.js.map": "./static/js/runtime-main.7282be0d.js.map",
     "static/js/2.dbf6e6a3.chunk.js": "./static/js/2.dbf6e6a3.chunk.js",
     "static/js/2.dbf6e6a3.chunk.js.map": "./static/js/2.dbf6e6a3.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.c4057caae4b6043273a17b0ae6c0f905.js": "./precache-manifest.c4057caae4b6043273a17b0ae6c0f905.js",
+    "precache-manifest.342998a6e46228ce7991135f8a219c6f.js": "./precache-manifest.342998a6e46228ce7991135f8a219c6f.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.1653dad7.chunk.css.map": "./static/css/main.1653dad7.chunk.css.map",
+    "static/css/main.40e15944.chunk.css.map": "./static/css/main.40e15944.chunk.css.map",
     "static/js/2.dbf6e6a3.chunk.js.LICENSE.txt": "./static/js/2.dbf6e6a3.chunk.js.LICENSE.txt",
-    "static/media/Hamburguer-min.jpg": "./static/media/Hamburguer-min.4a6772ff.jpg",
-    "static/media/PromocaoCashback.css": "./static/media/Pizza-ilustracao-min.c035e417.jpg",
-    "static/media/Pizza-min.jpg": "./static/media/Pizza-min.1caf868b.jpg",
-    "static/media/Sushi-min.jpg": "./static/media/Sushi-min.bfa8837e.jpg",
+    "static/media/Hamburguer-min.jpg": "./static/media/Hamburguer-min.f48f81d8.jpg",
+    "static/media/PromocaoCashback.css": "./static/media/Pizza-ilustracao-min.1c175a0e.jpg",
+    "static/media/Pizza-min.jpg": "./static/media/Pizza-min.26659981.jpg",
+    "static/media/Sushi-min.jpg": "./static/media/Sushi-min.174b3d66.jpg",
     "static/media/download-on-the-app-store-apple.svg": "./static/media/download-on-the-app-store-apple.e374ae72.svg",
     "static/media/google-play-badge.svg": "./static/media/google-play-badge.c68e1c2f.svg",
     "static/media/ilustracao.svg": "./static/media/ilustracao.ab2554a6.svg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.7282be0d.js",
     "static/js/2.dbf6e6a3.chunk.js",
-    "static/css/main.1653dad7.chunk.css",
-    "static/js/main.63b49a91.chunk.js"
+    "static/css/main.40e15944.chunk.css",
+    "static/js/main.279909cb.chunk.js"
   ]
 }
